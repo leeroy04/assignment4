@@ -7,7 +7,7 @@ It is designed to be run in a Python environment or through Docker.
 
 
 Repository links:
-Git Hub Repository:
+Git Hub Repository: https://github.com/leeroy04/assignment4
 Docker Hub Repository: https://hub.docker.com/r/levivanberkel/python.rps
 
 Thank you and Enjoy!
