@@ -1,0 +1,14 @@
+--- New Match ---
+TIED---You had Rock and the bot had Rock
+
+--- New Match ---
+LOST---You had Rock and the bot had Paper
+
+--- New Match ---
+LOST---You had Scissors and the bot had Rock
+
+--- New Match ---
+LOST---You had Rock and the bot had Paper
+
+--- New Match ---
+TIED---You had Rock and the bot had Rock
